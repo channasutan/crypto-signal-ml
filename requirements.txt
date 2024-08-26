@@ -1,1 +1,9 @@
 streamlit
+ccxt
+pandas
+numpy
+ta
+xgboost
+scikit-learn
+imbalanced-learn
+matplotlib
